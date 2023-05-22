@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
-source "https://rubygems.org"
-
-gem "minimal-mistakes-jekyll", group: :jekyll_plugins
+gem , group: :jekyll_plugins
 gem 'jekyll', '~> 3.8.5'
 gem 'coderay', '~> 1.1.0'
 
