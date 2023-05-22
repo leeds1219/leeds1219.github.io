@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Notes"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "version 1.0" # site tagline that appears below site title in masthead
 name                     : "Dosung Lee"
 description              : "Posting what I studied."
 url                      : "https://leeds1219.github.io" # the base hostname & protocol for your site e.g. "https://leeds1219.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "leeds1219/leeds1219.github.io" # GitHub username/repo-name e.g. "leeds1219/leeds1219.github.io"
+repository               : "https://leeds1219/leeds1219.github.io" # GitHub username/repo-name e.g. "leeds1219/leeds1219.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Learning dev" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dslee1219@korea.ac.kr"
-    - label: "Website"
+      url: mailto:dslee1219@korea.ac.kr
+    - label: "Github"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://github.com/leeds1219"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
