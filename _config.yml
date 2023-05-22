@@ -258,16 +258,19 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
  jekyll-archives:
-   enabled:
-     - categories
-     - tags
-   layouts:
-     category: archive-taxonomy
-     tag: archive-taxonomy
+   enabled: []
+#     - categories
+#     - tags
+   layouts: archive
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
    permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
-
+#     category: /categories/:name/
+     year: '/:year/'
+     month: '/:year/:month/'
+     day: '/:year/:month/:day/'
+     tag: '/tag/:name/'
+     category: '/category/:name/'
 
 # HTML Compression
 # - https://jch.penibelst.de/
