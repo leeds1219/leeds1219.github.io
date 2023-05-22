@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Posts"
-  #  url: https://leeds1219.github.io/docs/
+    url: https://leeds1219.github.io/_docs/
   # - title: "About"
-  #   url: https://mmistakes.github.io/docs/about/
+  #   url: https://mmistakes.github.io/_docs/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
