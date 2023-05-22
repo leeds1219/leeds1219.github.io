@@ -1,12 +1,14 @@
 # main links
 main:
   - title: "Posts"
-    url: https://leeds1219.github.io/_docs/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/_docs/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
