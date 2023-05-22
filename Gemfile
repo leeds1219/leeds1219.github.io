@@ -13,5 +13,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "faraday-retry"
-  gem 'jekyll-asciidoc', '~> 2.1.1'
 end
