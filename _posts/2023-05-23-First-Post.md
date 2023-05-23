@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "DSP first ch9 z-Transform"
-
-date: 2023-05-23
-last_modified_at: 2023-05-23
 ---
 
 # z-Transform
