@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "DSP first ch9 z-Transform"
 categories:
- -Blog
+ -DSP
  tags:
- -[Blog, jekyll, Github, Git]
+ -[DSP, z-Transform, matlab]
  date: 2023-05-23
  last_modified_at: 2023-05-23
 ---
