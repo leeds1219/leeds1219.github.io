@@ -9,8 +9,11 @@ categories:
  last_modified_at: 2023-05-23
 ---
 
-# Welcome
+# z-Transform
 
-**Hello world**, this is my first Jekyll blog post.
+**Contents**
+First, the definition, properties, convolution of z-Transfrom.
+Second, z-Domain versus frequency domain.
+Third, filter design in z-Domain: Zeros and Poles of H(z).
 
 I hope you like it!
