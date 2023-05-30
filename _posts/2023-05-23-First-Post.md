@@ -9,6 +9,7 @@ title:  "Z-Transform"
 1. Definition, properties, convolution of z-Transfrom.
 2. z-Domain versus frequency domain.
 3. Filter design in z-Domain: Zeros and Poles of H(z).
+4. ECG noise removal project
 
 Definition   
 
@@ -63,3 +64,24 @@ z is the total complex plane
 e^jw is the unit circle in the plane
 
 Zeros & Poles => filter design
+
+Creating an FIR filter with many zeros
+
+example 1 
+6 pt running average FIR filter
+H(z) = 1 + z^(-1) + z^(-2) + z^(-3) + z^(-4) + z^(-5) 
+coefficients are [1 1 1 1 1 1]
+
+changing H(z) in to a system function
+H(z) = (z^(-6) - 1)/(z-1) 
+coefficients = [1 0 0 0 0 0 -1]
+*pole-zero cancellation is a numerator-deominator cancellation that removes the zero at z = 1 
+
+using roots() in MATLAB we can get the zeros from the coefficients
+
+zeros = roots(coefficients)
+
+comparing the zeros of the two coefficients we can find that the second method has additional zero when z = 1
+
+example 2 
+With the numerator of H(z) above
