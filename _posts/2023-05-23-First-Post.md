@@ -11,77 +11,94 @@ title:  "Z-Transform"
 3. Filter design in z-Domain: Zeros and Poles of H(z).
 4. ECG noise removal project
 
-Definition   
+      Definition   
 
-finite x[n] to z-transform X(z)   
-x[n] -> X(z) into z domain   
-X(z) -> x[n] back to time domain   
+      finite x[n] to z-transform X(z)   
+      x[n] -> X(z) into z domain   
+      X(z) -> x[n] back to time domain   
    
-for a finite signal x[n] = b[0]d[n-0] + b[1]d[n-1]+ ... + b[L-1]d[n-L+1]   
+      for a finite signal x[n] = b[0]d[n-0] + b[1]d[n-1]+ ... + b[L-1]d[n-L+1]   
    
-Z-transform of x[n], System function   
-X(z) = x[0]z^(-0) + x[1]z^(-1) + ... + x[L-1]z^(-L+1)   
+      Z-transform of x[n], System function   
+      X(z) = x[0]z^(-0) + x[1]z^(-1) + ... + x[L-1]z^(-L+1)   
 
-z is any complex num, d is dirac delta function, b is the impulse response 
+      z is any complex num, d is dirac delta function, b is the impulse response 
     
-Properties   
+      Properties   
    
-1. Linearity   
+      1. Linearity   
    
-2. Time-Delay   
-   x[n] = { 1 2 3 4 5 }
-   let Y(z) = 0 z^0 + 1 z^(-1) + 2 z^(-2) + 3 z^(-3) + 4 z^(-4) + 5 z^(-5)
-   Y(z) = z^(-1)X(z)
-   x[n-1] <=> z^(-1)X(z)   
+      2. Time-Delay   
+      x[n] = { 1 2 3 4 5 }
+      let Y(z) = 0 z^0 + 1 z^(-1) + 2 z^(-2) + 3 z^(-3) + 4 z^(-4) + 5 z^(-5)
+      Y(z) = z^(-1)X(z)
+      x[n-1] <=> z^(-1)X(z)   
 
-Convolution, z-transform of FIR filters   
+      Convolution, z-transform of FIR filters   
 
-FIR difference equation   
-y[n] = b[0]x[n-0] + b[1]x[n-1] + ... + b[M]x[n-M]
+      FIR difference equation   
+      y[n] = b[0]x[n-0] + b[1]x[n-1] + ... + b[M]x[n-M]
 
-x[n-k] = z^(-k)X(z)
-H(z) = sum(b[k]z^(-k))
+      x[n-k] = z^(-k)X(z)
+      H(z) = sum(b[k]z^(-k))
 
-y[n] = sum(b[k]x[n-k])
-Y(z) = H(z)X(z)   
+      y[n] = sum(b[k]x[n-k])
+      Y(z) = H(z)X(z)   
    
-Cascade system, LTI system example
+      Cascade system, LTI system example
 
-H(z) = H1(z)H2(z)   
+      H(z) = H1(z)H2(z)   
    
-let H1(z) = 1 - z^(-1), H2(z) = 1 + z^(-1)
+      let H1(z) = 1 - z^(-1), H2(z) = 1 + z^(-1)
 
-H(z) = 1 - z^(-2)
+      H(z) = 1 - z^(-2)
 
-x[n] goes through H1(z) x1[n] = x[n] - x[n-1]
-x[n] goes through H2(z) x2[n] = x1[n] + x1[n-1]
+      x[n] goes through H1(z) x1[n] = x[n] - x[n-1]
+      x[n] goes through H2(z) x2[n] = x1[n] + x1[n-1]
 
-x2[n] = x[n] - x[n-2]
+      x2[n] = x[n] - x[n-2]
 
-H(z) & H(e^(jw)) 
+      H(z) & H(e^(jw)) 
 
-z is the total complex plane
-e^jw is the unit circle in the plane
+      z is the total complex plane
+      e^jw is the unit circle in the plane
 
-Zeros & Poles => filter design
+      Creating an FIR filter with many zeros
 
-Creating an FIR filter with many zeros
+      example 1 
+      6 pt running average FIR filter
+      H(z) = 1 + z^(-1) + z^(-2) + z^(-3) + z^(-4) + z^(-5) 
+      coefficients are [1 1 1 1 1 1]
 
-example 1 
-6 pt running average FIR filter
-H(z) = 1 + z^(-1) + z^(-2) + z^(-3) + z^(-4) + z^(-5) 
-coefficients are [1 1 1 1 1 1]
+      changing H(z) in to a system function
+      H(z) = (z^(-6) - 1)/(z-1) 
+      coefficients = [1 0 0 0 0 0 -1]
+      *pole-zero cancellation is a numerator-deominator cancellation that removes the zero at z = 1 
 
-changing H(z) in to a system function
-H(z) = (z^(-6) - 1)/(z-1) 
-coefficients = [1 0 0 0 0 0 -1]
-*pole-zero cancellation is a numerator-deominator cancellation that removes the zero at z = 1 
+      using roots() in MATLAB we can get the zeros from the coefficients
 
-using roots() in MATLAB we can get the zeros from the coefficients
+      zeros = roots(coefficients)
 
-zeros = roots(coefficients)
+      comparing the zeros of the two coefficients we can find that the second method has additional zero when z = 1
 
-comparing the zeros of the two coefficients we can find that the second method has additional zero when z = 1
+      Zeros & Poles
 
-example 2 
-With the numerator of H(z) above
+      In Z- transform, a signal X that goes through system H to become Y, is the multiplication of the system H and the signal X 
+
+      Y(z) = H(z)X(z), this makes the complicated convolution in time-domain easy.
+
+      The system function of Z-transform
+      example 1
+      Suppose y[n]=0.8y[n-1]+3x[n]-2x[n-1]
+
+      Y(z) = ((3-2z^(-1))/(1-0.8z^(-1)))X(z)
+
+      H(z) = (3-2z^(-1))/(1-0.8z^(-1))
+
+      H(z) = B(z)/A(z) 
+
+      Zeros of H(z) is where H(z) = 0
+      B(z) == 0 && A(z) != 0
+
+      Poles of H(z) is where H(z) = infinity
+      B(z) != 0 && A(z) == 0
