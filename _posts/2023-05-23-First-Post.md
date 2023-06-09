@@ -9,7 +9,6 @@ title:  "Z-Transform"
 1. Definition, properties, convolution of z-Transfrom.
 2. z-Domain versus frequency domain.
 3. Filter design in z-Domain: Zeros and Poles of H(z).
-4. ECG noise removal project
 
       Definition   
 
