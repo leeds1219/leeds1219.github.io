@@ -3,5 +3,5 @@ main:
   #- title: "Home"
   #  url: "/"
   - title: "Introduce"
-    url: /docs/_pages/about/
+    url: /about/
 
