@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 2rem; // 좌우 여백을 2rem(32px)으로 설정
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
