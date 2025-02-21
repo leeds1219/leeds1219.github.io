@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: docs/about/
 title: "About"
 toc: true
 toc_sticky: true
