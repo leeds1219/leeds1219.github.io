@@ -16,12 +16,18 @@ padding: 5px;
 -webkit-border-radius: 50%;
 "></center>
 
-* NAME : Dosung, Lee
+<div class="profile">
+  <p><strong>NAME</strong>: Dosung, Lee</p>
 
-## Career & Activities
- - Multimodal Interactive Intelligence Laboratory (2024.09 ~ )
+  <h2>Career & Activities</h2>
+  <ul>
+    <li>Multimodal Interactive Intelligence Laboratory (2024.09 ~ )</li>
+  </ul>
 
-## Current Interest
- * RAG
- * Multimodal
- * Agents
+  <h2>Current Interest</h2>
+  <ul>
+    <li>RAG</li>
+    <li>Multimodal</li>
+    <li>Agents</li>
+  </ul>
+</div>
