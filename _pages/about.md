@@ -17,7 +17,7 @@ padding: 5px;
 "></center>
 
 <div class="profile">
-  <h2>NAME</h2>
+  <h2>Name</h2>
   <ul>
     Dosung, Lee
   </ul>
