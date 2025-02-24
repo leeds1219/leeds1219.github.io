@@ -17,8 +17,11 @@ padding: 5px;
 "></center>
 
 <div class="profile">
-  <p><strong>NAME</strong>: Dosung, Lee</p>
-
+  <h2>NAME</h2>
+  <ul>
+    Dosung, Lee
+  </ul>
+  
   <h2>Career & Activities</h2>
   <ul>
     <li>Multimodal Interactive Intelligence Laboratory (2024.09 ~ )</li>
@@ -26,8 +29,8 @@ padding: 5px;
 
   <h2>Current Interest</h2>
   <ul>
-    <li>RAG</li>
-    <li>Multimodal</li>
-    <li>Agents</li>
+    <li>Retrieval Augmented Generation</li>
+    <li>Multimodal Learning</li>
+    <li>AI Agents</li>
   </ul>
 </div>
