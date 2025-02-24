@@ -24,7 +24,7 @@ padding: 5px;
   
   <h2>Career & Activities</h2>
   <ul>
-    <li><a href="https://miil.korea.ac.kr/" target="_blank" style="color: #8B4513;">Multimodal Interactive Intelligence Laboratory</a> (2024.09 ~ )</li>
+    <li><a href="https://miil.korea.ac.kr/" target="_blank" style="color: #78021a;">Multimodal Interactive Intelligence Laboratory</a> (2024.09 ~ )</li>
   </ul>
 
   <h2>Current Interest</h2>
@@ -36,6 +36,6 @@ padding: 5px;
 
   <h2>Papers</h2>
 <!--   <ul>
-    <li><a href="https://openreview.net/pdf?id=RDJ0tKg5kx" target="_blank" style="color: #8B4513;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> Preprint </li>
+    <li><a href="https://openreview.net/pdf?id=RDJ0tKg5kx" target="_blank" style="color: #78021a;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> Preprint </li>
   </ul> -->
 </div>
