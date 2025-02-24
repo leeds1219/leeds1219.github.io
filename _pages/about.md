@@ -24,7 +24,7 @@ padding: 5px;
   
   <h2>Career & Activities</h2>
   <ul>
-    <li><a href="https://miil.korea.ac.kr/" target="_blank">Multimodal Interactive Intelligence Laboratory (2024.09 ~ )</a></li>
+    <li><a href="https://miil.korea.ac.kr/" target="_blank">Multimodal Interactive Intelligence Laboratory</a> (2024.09 ~ )</li>
   </ul>
 
   <h2>Current Interest</h2>
