@@ -33,4 +33,9 @@ padding: 5px;
     <li>Multimodal Learning</li>
     <li>AI Agents</li>
   </ul>
+
+  <h2>Papers</h2>
+  <ul>
+    <li>ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</li>
+  </ul>
 </div>
