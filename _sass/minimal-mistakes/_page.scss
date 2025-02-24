@@ -5,7 +5,7 @@
 #main {
   @include clearfix;
   margin-inline: auto;
-  padding-left: 5em;  /* 왼쪽 여백만 추가 */
+  padding: 3em;  /* 왼쪽 여백만 추가 */
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
