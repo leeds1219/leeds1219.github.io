@@ -36,6 +36,6 @@ padding: 5px;
 
   <h2>Papers</h2>
   <ul>
-    <li>ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</li>
+    <li><a href="https://openreview.net/pdf?id=RDJ0tKg5kx" target="_blank">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a></li>
   </ul>
 </div>
