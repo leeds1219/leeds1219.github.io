@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Dosung Lee"
 description              : "An amazing website."
 url                      : https://leeds1219.github.io
-baseurl                  : https://leeds1219.github.io/about
+baseurl                  : # https://leeds1219.github.io/about
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
