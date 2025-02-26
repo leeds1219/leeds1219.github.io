@@ -36,6 +36,6 @@ padding: 5px;
 
   <h2>Papers</h2>
   <ul>
-    <li><a href="" target="_blank" style="color: #78021a;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> Preprint </li>
+    <li><a href="" target="_blank" style="color: #78021a;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> arXiv preprint </li>
   </ul>
 </div>
