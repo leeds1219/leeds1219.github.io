@@ -35,7 +35,7 @@ padding: 5px;
   </ul>
 
   <h2>Papers</h2>
-<!--   <ul>
-    <li><a href="https://openreview.net/pdf?id=RDJ0tKg5kx" target="_blank" style="color: #78021a;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> Preprint </li>
-  </ul> -->
+  <ul>
+    <li><a href="" target="_blank" style="color: #78021a;">ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision</a> Preprint </li>
+  </ul>
 </div>
