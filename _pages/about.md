@@ -21,7 +21,7 @@ Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://mii
 
 Previously, I received my B.S. degree from <a href="https://www.korea.edu/">Korea University</a> in june 2024.
 
-My current research interest lies in multi-modal learning. Feel free to reach me if you are seeking any form of cooperation.
+My current research interest lies in multimodal learning. Feel free to reach me if you are seeking any form of cooperation.
 
 
 # 🔥 News
