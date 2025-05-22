@@ -25,11 +25,11 @@ My current research interest lies in multimodal learning. Feel free to reach me 
 
 
 # 🔥 News
-- *Lorem Ipsum*: &nbsp;🎉🎉 One paper (<a href="Lorem Ipsum">Lorem Ipsum</a>) has been accepted by Lorem Ipsum.
+- *Lorem Ipsum*: &nbsp;🎉🎉 One paper (<a href="Lorem Ipsum">Lorem Ipsum</a>) has been accepted by ACL 2025.
 
 # 📝 Publications 
 
-``Lorem Ipsum`` [Lorem Ipsum](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
+``ReSCORE`` [ReSCORE](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
   **Lorem Ipsum**.
 
 
