@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://miil.korea.ac.kr/">MIIL</a> at <a href="https://www.korea.edu/">Korea University</a>, advised by <a href="https://phseo.github.io/">Prof.Paul Hongsuck Seo</a>. 
+Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://miil.korea.ac.kr/">MIIL Lab</a> at <a href="https://www.korea.edu/">Korea University</a>, advised by <a href="https://phseo.github.io/">Prof.Paul Hongsuck Seo</a>. 
 
 Previously, I received my B.S. degree from <a href="https://www.korea.edu/">Korea University</a> in june 2024.
 
