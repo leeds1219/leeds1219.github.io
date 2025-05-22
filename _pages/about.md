@@ -29,7 +29,7 @@ My current research interest lies in multimodal learning. Feel free to reach me 
 
 # 📝 Publications 
 
-``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br> \\
+``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
 **Dosung Lee***  Wonjun Oh*  Boyoung Kim  Minyoung Kim  Joonsuk Park†  Paul Hongsuck Seo†
 
 
