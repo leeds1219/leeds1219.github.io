@@ -25,7 +25,7 @@ My current research interest lies in multimodal learning. Feel free to reach me 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper (<a href="Lorem Ipsum">Lorem Ipsum</a>) has been accepted by ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
 
 # 📝 Publications 
 
