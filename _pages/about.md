@@ -27,7 +27,7 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2025 (*findings*).
+- *2025.08*: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2025 (*findings*).
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025 (*main*).
 
 # 📝 Publications 
