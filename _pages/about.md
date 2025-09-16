@@ -41,10 +41,15 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 ``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
 **Dosung Lee***  Wonjun Oh*  Boyoung Kim  Minyoung Kim  Joonsuk Park†  Paul Hongsuck Seo†
 
-<!-- 
-# 💻 Internships
-- *Lorem Ipsum*, [Lorem Ipsum](Lorem Ipsum), Lorem Ipsum.
 
+# 💻 Experience
+- *Lorem Ipsum*, [Lorem Ipsum](Lorem Ipsum), Lorem Ipsum.
+- *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec. 2025 – June 2026 (Expected)
+
+
+
+
+<!-- 
 # 🎖 Honors and Awards
 - *Lorem Ipsum* Lorem Ipsum
 -->
