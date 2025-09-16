@@ -43,7 +43,6 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
 
 # 💻 Experience
-- *Lorem Ipsum*, [Lorem Ipsum](Lorem Ipsum), Lorem Ipsum.
 - *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec. 2025 – June 2026 (Expected)
 
 
