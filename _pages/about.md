@@ -35,7 +35,7 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 ``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/(github_id/repo_name)?style=social&amp;label=Stars)](linktocode)<br>
 TBD
 
-``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://github.com/bykimby/retag) [![](https://img.shields.io/github/stars/bykimby/retag?style=social&amp;label=Stars)](https://github.com/bykimby/retag)<br>
+``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://www.arxiv.org/abs/2509.25814) [![](https://img.shields.io/github/stars/bykimby/retag?style=social&amp;label=Stars)](https://github.com/bykimby/retag)<br>
 Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
 ``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
