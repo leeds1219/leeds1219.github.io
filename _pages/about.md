@@ -32,7 +32,7 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 
 # 📝 Publications 
 
-``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/(github_id/repo_name)?style=social&amp;label=Stars)](linktocode)<br>
+``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/leeds1219/Temp?style=social&amp;label=Stars)](https://github.com/leeds1219/Temp)<br>
 TBD
 
 ``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://www.arxiv.org/abs/2509.25814) [![](https://img.shields.io/github/stars/bykimby/retag?style=social&amp;label=Stars)](https://github.com/bykimby/retag)<br>
