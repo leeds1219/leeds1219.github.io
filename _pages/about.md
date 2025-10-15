@@ -35,6 +35,9 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 ``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/leeds1219/Temp?style=social&amp;label=Stars)](https://github.com/leeds1219/Temp)<br>
 TBD
 
+``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/(코드/링크)?style=social&amp;label=Stars)](https://github.com/(코드/링크))<br>
+Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hongsuck Seo
+
 ``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://www.arxiv.org/abs/2509.25814) [![](https://img.shields.io/github/stars/bykimby/retag?style=social&amp;label=Stars)](https://github.com/bykimby/retag)<br>
 Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
