@@ -48,6 +48,9 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 # 💻 Experience
 - *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 (Expected)
 
+- *Research Intern*,
+- [](), With: [](). June.2026 (Expected) -
+
 # 🎖 Honors and Awards
 - *Merit-based Scholarship* — KRW 1,695,000, Fall 2022
 - *Merit-based Scholarship* — KRW 1,119,000, Fall 2018
