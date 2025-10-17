@@ -23,7 +23,7 @@ Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://mii
 
 My current research interest lies in multimodal learning. Feel free to reach me if you are seeking any form of cooperation.
 
-You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/main/images/Dosung_Lee_CV.pdf).
+You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/main/images/Dosung_Lee_CV.pdf) (Last update: Oct.2025.)
 
 
 # 🔥 News
