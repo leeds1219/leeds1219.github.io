@@ -42,9 +42,8 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 ``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/leeds1219/Temp?style=social&amp;label=Stars)](https://github.com/leeds1219/Temp)<br>
 TBD
 
-``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/(코드/링크)?style=social&amp;label=Stars)](https://github.com/(코드/링크))<br>
-Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hongsuck Seo
-
+``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/daream2/daream2.github.io?style=social&amp;label=Stars)](https://github.com/daream2/daream2.github.io)<br>
+Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hongsuck Se
 # 💻 Experience
 - *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 (Expected)
 
