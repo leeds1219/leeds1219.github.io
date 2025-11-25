@@ -39,7 +39,7 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 **Dosung Lee***  Wonjun Oh*  Boyoung Kim  Minyoung Kim  Joonsuk Park†  Paul Hongsuck Seo†
 
 # 📝 Preprints
-``TBD`` [TBD](linktopaper) [![](https://img.shields.io/github/stars/leeds1219/Temp?style=social&amp;label=Stars)](https://github.com/leeds1219/Temp)<br>
+``TBD`` [TBD](https://leeds1219.github.io/RETINA) [![](https://img.shields.io/github/stars/leeds1219/RETINA?style=social&amp;label=Stars)](https://github.com/leeds1219/RETINA)<br>
 TBD
 
 ``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/daream2/daream2.github.io?style=social&amp;label=Stars)](https://github.com/daream2/daream2.github.io)<br>
