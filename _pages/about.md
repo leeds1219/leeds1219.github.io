@@ -47,7 +47,6 @@ Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hon
 # 💻 Experience
 - *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 
 
-<--! - *Research Intern*, [TBD](https://europe.naverlabs.com/), With: [TBD](https://europe.naverlabs.com/people_user_naverlabs/st%C3%A9phane-clinchant/) and [TBD](https://europe.naverlabs.com/people_user_naverlabs/maxime-louis/). June.2026 (Expected) - TBD. -->
 
 # 🎖 Honors and Awards
 - *Merit-based Scholarship* — KRW 1,695,000, Fall 2022
