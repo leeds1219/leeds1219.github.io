@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://miil.korea.ac.kr/">MIIL Lab</a> at <a href="https://www.korea.edu/">Korea University</a>, advised by <a href="https://phseo.github.io/">Prof.Paul Hongsuck Seo</a>. 
+Hello! I'm Dosung Lee. I am currently a graduate student of <a href="https://miil.korea.ac.kr/">MIIL Lab</a> at <a href="https://www.korea.edu/">Korea University</a>, advised by <a href="https://phseo.github.io/">Paul Hongsuck Seo</a>. 
 
 <!-- Previously, I received my B.S. degree from <a href="https://www.korea.edu/">Korea University</a> in june 2024.-->
 
-My current research interest lies in multimodal learning. Feel free to reach me if you are seeking any form of cooperation.
+My current research interest lies in human-like AI. Feel free to reach me if you are seeking any form of cooperation.
 
 You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/main/images/Dosung_Lee_CV.pdf) (Last update: Oct.2025.)
 
