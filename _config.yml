@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Dosung Lee"
 description              : "Graduate student "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "leeds1219/leeds1219.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,9 +27,9 @@ author:
   location         : "Republic of Korea"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=jXw4esIAAAAJ&hl
   email            : "dslee1219@korea.ac.kr"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -41,14 +41,14 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : dosung-lee-7b77a0271 # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
