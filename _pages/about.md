@@ -31,7 +31,7 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
 
 
-# 📝 Publications
+# 📝 Selected Publications
 ``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://www.arxiv.org/abs/2509.25814) [![](https://img.shields.io/github/stars/bykimby?style=social&amp;label=Stars)](https://github.com/bykimby/)<br>
 Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
@@ -44,6 +44,7 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
 ``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/daream2/daream2.github.io?style=social&amp;label=Stars)](https://github.com/daream2/daream2.github.io)<br>
 Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hongsuck Seo
+
 # 💻 Experience
 - *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 
 
