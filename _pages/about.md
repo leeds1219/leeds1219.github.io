@@ -45,7 +45,7 @@ Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 ``Arxiv`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/daream2/daream2.github.io?style=social&amp;label=Stars)](https://github.com/daream2/daream2.github.io)<br>
 Hyunji Min, Sangwon Jung, Junyoung Sung, **Dosung Lee**, Leekyeung Han, Paul Hongsuck Seo
 # 💻 Experience
-- *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Prof. Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 
+- *Visiting Researcher*, [University of Wisconsin, Madison, WI](https://www.wisc.edu/), Advisor: [Kangwook Lee](https://kangwooklee.com/). Dec.15.2025 – May.31.2026 
 
 
 # 🎖 Honors and Awards
