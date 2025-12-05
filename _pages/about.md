@@ -27,18 +27,18 @@ You can find my CV [here](https://github.com/leeds1219/leeds1219.github.io/blob/
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2025 (*findings*).
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
+- *2025.08*: &nbsp;🎉 One paper has been accepted by EMNLP 2025 (*findings*).
+- *2025.05*: &nbsp;🎉 One paper has been accepted by ACL 2025.
 
 
-# 📝 Selected Publications
+# 📝 Publications
 ``EMNLP 2025 findings`` [ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking](https://www.arxiv.org/abs/2509.25814) [![](https://img.shields.io/github/stars/bykimby?style=social&amp;label=Stars)](https://github.com/bykimby/)<br>
 Boyoung Kim, **Dosung Lee**, Sumin An, Jinseong Jeong, Paul Hongsuck Seo
 
 ``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
 **Dosung Lee***  Wonjun Oh*  Boyoung Kim  Minyoung Kim  Joonsuk Park†  Paul Hongsuck Seo†
 
-# 📝 Preprints
+# 🍌 Preprints
 ``Arxiv`` [Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://leeds1219.github.io/RETINA) [![](https://img.shields.io/github/stars/leeds1219/RETINA?style=social&amp;label=Stars)](https://github.com/leeds1219/RETINA)<br>
 **Dosung Lee**, Sangwon Jung, Boyoung Kim, Minyoung Kim, Sungyeon Kim, Junyoung Sung, Paul Hongsuck Seo
 
